@@ -48,9 +48,6 @@ body {
 }
 
 .selected {
-    opacity: 0.8;
+    opacity: 0.4;
 }
 
-.dnv {
-    opacity: 0.2;
-}
